@@ -1,0 +1,4795 @@
+{
+  "source": "Thực Đơn Cơm Nhà Tổng Hợp.xlsx",
+  "dishes": [
+    {
+      "id": "645da1afb748",
+      "name": "Ba chỉ kho tiêu",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 2
+      }
+    },
+    {
+      "id": "d0aaf4836003",
+      "name": "Ba chỉ rim nước mắm",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 3
+      }
+    },
+    {
+      "id": "615ae5e8c9c2",
+      "name": "Ba chỉ rim tiêu",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 4
+      }
+    },
+    {
+      "id": "2d56ef050c28",
+      "name": "Chân giò / đuôi lợn kho riềng",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 5
+      }
+    },
+    {
+      "id": "f6690cbe56f1",
+      "name": "Chân giò / đuôi lợn kho tương",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 6
+      }
+    },
+    {
+      "id": "e3305edfb913",
+      "name": "Giả cầy chân giò",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 7
+      }
+    },
+    {
+      "id": "8ba1c95c584f",
+      "name": "Giò rim mắm tỏi ớt",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 8
+      }
+    },
+    {
+      "id": "367d9e164b01",
+      "name": "Sườn non rim mặn ngọt",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 9
+      }
+    },
+    {
+      "id": "1791527cd111",
+      "name": "Thịt băm rim nước mắm",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 10
+      }
+    },
+    {
+      "id": "add62595512e",
+      "name": "Thịt băm rim tiêu",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 11
+      }
+    },
+    {
+      "id": "d442d9f78b38",
+      "name": "Thịt heo rim nước mắm",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 12
+      }
+    },
+    {
+      "id": "cd9ddaafa5a1",
+      "name": "Thịt heo rim sả ớt",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 13
+      }
+    },
+    {
+      "id": "7faed4efc5e4",
+      "name": "Thịt heo rim tiêu xanh",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 14
+      }
+    },
+    {
+      "id": "b14910195128",
+      "name": "Thịt kho dưa chua",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 15
+      }
+    },
+    {
+      "id": "2291a6fc123c",
+      "name": "Thịt kho khóm (dứa)",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 16
+      }
+    },
+    {
+      "id": "7168bc5c881d",
+      "name": "Thịt kho tàu (trứng cút / củ cải / trám / sung)",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 17
+      }
+    },
+    {
+      "id": "6bb4edeb19ce",
+      "name": "Ba chỉ xào dưa chua",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 18
+      }
+    },
+    {
+      "id": "c6c0ec72c2ed",
+      "name": "Bắp cải cuộn thịt sốt cà chua",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 19
+      }
+    },
+    {
+      "id": "08ed54240268",
+      "name": "Nấm rơm xào thịt băm",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 20
+      }
+    },
+    {
+      "id": "2afd2d3e455b",
+      "name": "Sườn xào chua ngọt",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 21
+      }
+    },
+    {
+      "id": "22aa1d97e50f",
+      "name": "Thịt băm chưng trứng",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 22
+      }
+    },
+    {
+      "id": "723c549ca814",
+      "name": "Thịt băm sốt mắm tỏi",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 23
+      }
+    },
+    {
+      "id": "cf656a12ce8e",
+      "name": "Thịt băm xào giá",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 24
+      }
+    },
+    {
+      "id": "6e10f8f992c0",
+      "name": "Thịt băm xào hành tây",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 25
+      }
+    },
+    {
+      "id": "eb2e96d4ee6d",
+      "name": "Thịt băm xào ngô ngọt",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 26
+      }
+    },
+    {
+      "id": "f7116b9139cf",
+      "name": "Thịt băm xào đậu que",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 27
+      }
+    },
+    {
+      "id": "7b26d6d566cf",
+      "name": "Thịt heo rang nghệ",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 28
+      }
+    },
+    {
+      "id": "548d2e5b1ab5",
+      "name": "Thịt heo rang riềng",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 29
+      }
+    },
+    {
+      "id": "cffe4600bd67",
+      "name": "Thịt heo rang tỏi",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 30
+      }
+    },
+    {
+      "id": "03d70c2a89c2",
+      "name": "Thịt heo xào giá hẹ",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 31
+      }
+    },
+    {
+      "id": "373d6586f424",
+      "name": "Thịt heo xào hành tây",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 32
+      }
+    },
+    {
+      "id": "51a36fb2f62f",
+      "name": "Thịt heo xào sả",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 33
+      }
+    },
+    {
+      "id": "be2e8ddb1eca",
+      "name": "Thịt heo xào đậu que",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 34
+      }
+    },
+    {
+      "id": "1655f37159c3",
+      "name": "Thịt rang cháy cạnh",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 35
+      }
+    },
+    {
+      "id": "c07b04cbf152",
+      "name": "Thịt rang dừa",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 36
+      }
+    },
+    {
+      "id": "f3539cb97dac",
+      "name": "Thịt rang tôm khô",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 37
+      }
+    },
+    {
+      "id": "1a490343a783",
+      "name": "Thịt thăn xào lá tỏi tây",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 38
+      }
+    },
+    {
+      "id": "93ff1941e361",
+      "name": "Thịt thăn xào mộc nhĩ",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 39
+      }
+    },
+    {
+      "id": "178164f14782",
+      "name": "Thịt thăn xào nấm hương",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 40
+      }
+    },
+    {
+      "id": "5ce424710c67",
+      "name": "Thịt viên sốt hành",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 41
+      }
+    },
+    {
+      "id": "6e40ca20c4dc",
+      "name": "Thịt viên sốt mắm",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 42
+      }
+    },
+    {
+      "id": "f6d70c0ca506",
+      "name": "Thịt viên sốt me",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 43
+      }
+    },
+    {
+      "id": "cacea9a2a0ca",
+      "name": "Thịt viên sốt tiêu",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 44
+      }
+    },
+    {
+      "id": "3c9bc48c65e7",
+      "name": "Đậu / mọc nhồi sốt cà chua",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 45
+      }
+    },
+    {
+      "id": "4ca39408f870",
+      "name": "Ba chỉ chiên giòn sốt sả tắc",
+      "category": "Món Heo",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 46
+      }
+    },
+    {
+      "id": "c1249b7cd6be",
+      "name": "Nạc vai nướng sa tế",
+      "category": "Món Heo",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 47
+      }
+    },
+    {
+      "id": "66d27b339039",
+      "name": "Nem rán",
+      "category": "Món Heo",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 48
+      }
+    },
+    {
+      "id": "e4a3dbe035c6",
+      "name": "Thịt chiên xù",
+      "category": "Món Heo",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 49
+      }
+    },
+    {
+      "id": "bf376e100289",
+      "name": "Thịt viên mộc nhĩ nấm hương rán",
+      "category": "Món Heo",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 50
+      }
+    },
+    {
+      "id": "41a86c393ad7",
+      "name": "Bắp chân lợn luộc chấm tương",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 51
+      }
+    },
+    {
+      "id": "7d1d31a04a82",
+      "name": "Lòng lợn luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 52
+      }
+    },
+    {
+      "id": "2fb8bd36c95a",
+      "name": "Tai lợn luộc trộn thính / chanh",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 53
+      }
+    },
+    {
+      "id": "3459dcae11e1",
+      "name": "Thịt ba chỉ luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 54
+      }
+    },
+    {
+      "id": "eced5bf453e7",
+      "name": "Thịt băm hấp trứng",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 55
+      }
+    },
+    {
+      "id": "ea88e6f916e5",
+      "name": "Thịt dải luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 56
+      }
+    },
+    {
+      "id": "d1f3e4139047",
+      "name": "Thịt lưỡi luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 57
+      }
+    },
+    {
+      "id": "61b66c64530f",
+      "name": "Thịt mũi luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 58
+      }
+    },
+    {
+      "id": "3922aba350fa",
+      "name": "Thịt nạc vai luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 59
+      }
+    },
+    {
+      "id": "b848e447b86d",
+      "name": "Thịt đầu vai luộc",
+      "category": "Món Heo",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 60
+      }
+    },
+    {
+      "id": "5e59114bff98",
+      "name": "Ba chỉ lắc sả tắc",
+      "category": "Món Heo",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 61
+      }
+    },
+    {
+      "id": "61d2cf92fa47",
+      "name": "Chả lá lốt",
+      "category": "Món Heo",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 62
+      }
+    },
+    {
+      "id": "e4f84221f343",
+      "name": "Chả lá xương sông",
+      "category": "Món Heo",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 63
+      }
+    },
+    {
+      "id": "71ccdb63453c",
+      "name": "Mướp đắng nhồi thịt băm",
+      "category": "Món Heo",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 64
+      }
+    },
+    {
+      "id": "84d9b690b944",
+      "name": "Nem thính",
+      "category": "Món Heo",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 65
+      }
+    },
+    {
+      "id": "8ebb418b377c",
+      "name": "Sườn kho trứng cút",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 66
+      }
+    },
+    {
+      "id": "f7337796e8d7",
+      "name": "Thịt heo kho gừng",
+      "category": "Món Heo",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 67
+      }
+    },
+    {
+      "id": "e66eaef641c9",
+      "name": "Thịt heo xào măng",
+      "category": "Món Heo",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 68
+      }
+    },
+    {
+      "id": "965133705306",
+      "name": "Sườn chiên nước mắm",
+      "category": "Món Heo",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 69
+      }
+    },
+    {
+      "id": "36c4710d2700",
+      "name": "Sườn nướng mật ong",
+      "category": "Món Heo",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 70
+      }
+    },
+    {
+      "id": "6bd24a7c5377",
+      "name": "Thịt băm chưng mắm",
+      "category": "Món Heo",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Heo",
+        "row": 71
+      }
+    },
+    {
+      "id": "f52026e20200",
+      "name": "Cánh gà rim nước mắm",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 2
+      }
+    },
+    {
+      "id": "912e3eb67ac3",
+      "name": "Ngan luộc",
+      "category": "Món Vịt & Ngan",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 2
+      }
+    },
+    {
+      "id": "baeedb1db6ee",
+      "name": "Bò / trâu xào rau muống",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 2
+      }
+    },
+    {
+      "id": "fbfee5e31387",
+      "name": "Gà kho gừng",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 3
+      }
+    },
+    {
+      "id": "9242c8468eb3",
+      "name": "Vịt luộc",
+      "category": "Món Vịt & Ngan",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 3
+      }
+    },
+    {
+      "id": "98e6cd11e5eb",
+      "name": "Bò xào cần tây",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 3
+      }
+    },
+    {
+      "id": "21f338c5162e",
+      "name": "Gà kho sả",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 4
+      }
+    },
+    {
+      "id": "7deedcd2ff3d",
+      "name": "Ngan lọc lườn xào lăn sả ớt",
+      "category": "Món Vịt & Ngan",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 4
+      }
+    },
+    {
+      "id": "a14007dfef59",
+      "name": "Bò xào dưa chua",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 4
+      }
+    },
+    {
+      "id": "8858eb955b30",
+      "name": "Gà rim mật ong",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 5
+      }
+    },
+    {
+      "id": "34e2a7bc378d",
+      "name": "Vịt xào măng",
+      "category": "Món Vịt & Ngan",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 5
+      }
+    },
+    {
+      "id": "e999b85b4478",
+      "name": "Bò xào hoa thiên lý",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 5
+      }
+    },
+    {
+      "id": "fb38a6edc2b8",
+      "name": "Gà rim nước mắm",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 6
+      }
+    },
+    {
+      "id": "9cbae13e4eb8",
+      "name": "Vịt xào sả ớt",
+      "category": "Món Vịt & Ngan",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 6
+      }
+    },
+    {
+      "id": "6f74fa26f837",
+      "name": "Bò xào nấm",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 6
+      }
+    },
+    {
+      "id": "9261144ccb49",
+      "name": "Gà rim tiêu",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 7
+      }
+    },
+    {
+      "id": "5bb7b3b99876",
+      "name": "Ngan nấu giả cầy",
+      "category": "Món Vịt & Ngan",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 7
+      }
+    },
+    {
+      "id": "b65731605737",
+      "name": "Bò xào ngô bao tử",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 7
+      }
+    },
+    {
+      "id": "065956498f4d",
+      "name": "Cánh gà rang tỏi",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 8
+      }
+    },
+    {
+      "id": "ac64d847719c",
+      "name": "Vịt quay",
+      "category": "Món Vịt & Ngan",
+      "method": "Nướng / Quay",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 8
+      }
+    },
+    {
+      "id": "2c3be88d0198",
+      "name": "Bò xào rau thập cẩm",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 8
+      }
+    },
+    {
+      "id": "bd0c3cd169a6",
+      "name": "Cánh gà sốt me",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 9
+      }
+    },
+    {
+      "id": "7cdce272ed86",
+      "name": "Vịt kho gừng",
+      "category": "Món Vịt & Ngan",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 9
+      }
+    },
+    {
+      "id": "8dbc2ac97cc6",
+      "name": "Bò xào su su",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 9
+      }
+    },
+    {
+      "id": "503813123f05",
+      "name": "Cổ gà rang muối",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 10
+      }
+    },
+    {
+      "id": "8c28abae7da4",
+      "name": "Vịt om sấu",
+      "category": "Món Vịt & Ngan",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 10
+      }
+    },
+    {
+      "id": "46adc4a9b965",
+      "name": "Bò xào súp lơ",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 10
+      }
+    },
+    {
+      "id": "17f775cf9843",
+      "name": "Đùi gà áp chảo sốt tiêu",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 11
+      }
+    },
+    {
+      "id": "e3bc2c187c15",
+      "name": "Ngan cháy tỏi",
+      "category": "Món Vịt & Ngan",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 11
+      }
+    },
+    {
+      "id": "947a97c909b8",
+      "name": "Bò xào đỗ",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 11
+      }
+    },
+    {
+      "id": "c7430260562f",
+      "name": "Gà rang muối",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 12
+      }
+    },
+    {
+      "id": "cad5a7b8b5c4",
+      "name": "Gỏi vịt bắp cải",
+      "category": "Món Vịt & Ngan",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 12
+      }
+    },
+    {
+      "id": "9ef22e66b44a",
+      "name": "Bò kho khoai tây cà rốt",
+      "category": "Món Bò & Trâu",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 12
+      }
+    },
+    {
+      "id": "bc6458c92d76",
+      "name": "Gà rang nghệ",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 13
+      }
+    },
+    {
+      "id": "6bc8f2d8b3bf",
+      "name": "Gân bò kho dưa chua",
+      "category": "Món Bò & Trâu",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 13
+      }
+    },
+    {
+      "id": "0b6e87a857ee",
+      "name": "Gà rang sả",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 14
+      }
+    },
+    {
+      "id": "d1e0cb905496",
+      "name": "Gân bò / thịt bò hầm nấu canh chua dưa muối",
+      "category": "Món Bò & Trâu",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 14
+      }
+    },
+    {
+      "id": "f76809d5870e",
+      "name": "Gà rang tỏi",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 15
+      }
+    },
+    {
+      "id": "f2bd247ed938",
+      "name": "Bò lúc lắc",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 15
+      }
+    },
+    {
+      "id": "a27df4f2ab51",
+      "name": "Gà xào bắp cải",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 16
+      }
+    },
+    {
+      "id": "173471d1e284",
+      "name": "Bò xào hành tây",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 16
+      }
+    },
+    {
+      "id": "e2dbf547f0ba",
+      "name": "Gà xào cải chua",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 17
+      }
+    },
+    {
+      "id": "dfdfe47e74a7",
+      "name": "Bò kho gừng",
+      "category": "Món Bò & Trâu",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 17
+      }
+    },
+    {
+      "id": "de9d5c33b82d",
+      "name": "Gà xào giá",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 18
+      }
+    },
+    {
+      "id": "8c2228039c30",
+      "name": "Bò sốt tiêu đen",
+      "category": "Món Bò & Trâu",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 18
+      }
+    },
+    {
+      "id": "883b696d65bf",
+      "name": "Gà xào hành tây",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 19
+      }
+    },
+    {
+      "id": "50370ce32a49",
+      "name": "Bò cuốn lá lốt",
+      "category": "Món Bò & Trâu",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 19
+      }
+    },
+    {
+      "id": "85d646a7d375",
+      "name": "Gà xào húng quế",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 20
+      }
+    },
+    {
+      "id": "e9b86f988b33",
+      "name": "Gà xào lá chanh",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 21
+      }
+    },
+    {
+      "id": "ce7e327a6f19",
+      "name": "Gà xào nấm bào ngư",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 22
+      }
+    },
+    {
+      "id": "cb42c4ecf705",
+      "name": "Gà xào nấm đùi gà",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 23
+      }
+    },
+    {
+      "id": "beadfba9708f",
+      "name": "Gà xào nấm mèo",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 24
+      }
+    },
+    {
+      "id": "eb719d1f0e0b",
+      "name": "Gà xào đậu que",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 25
+      }
+    },
+    {
+      "id": "cc0244aa75c9",
+      "name": "Gà xáo gừng",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 26
+      }
+    },
+    {
+      "id": "388e60055445",
+      "name": "Gà xáo nấm",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 27
+      }
+    },
+    {
+      "id": "a401e48b8fac",
+      "name": "Gà xáo sả",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 28
+      }
+    },
+    {
+      "id": "51fa7075ed4e",
+      "name": "Má đùi gà sốt",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 29
+      }
+    },
+    {
+      "id": "c9579618914e",
+      "name": "Cánh gà chiên mắm",
+      "category": "Món Gà",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 30
+      }
+    },
+    {
+      "id": "bc7517e83b4b",
+      "name": "Đùi gà chiên nước mắm",
+      "category": "Món Gà",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 31
+      }
+    },
+    {
+      "id": "50de7094384d",
+      "name": "Gà rán",
+      "category": "Món Gà",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 32
+      }
+    },
+    {
+      "id": "2db3192046a7",
+      "name": "Gà hấp hành gừng",
+      "category": "Món Gà",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 33
+      }
+    },
+    {
+      "id": "4233c98c310b",
+      "name": "Gà hấp mướp nấm",
+      "category": "Món Gà",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 34
+      }
+    },
+    {
+      "id": "e943c0416f9e",
+      "name": "Gà hấp muối",
+      "category": "Món Gà",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 35
+      }
+    },
+    {
+      "id": "18d9050aa262",
+      "name": "Gà luộc chấm muối tiêu chanh",
+      "category": "Món Gà",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 36
+      }
+    },
+    {
+      "id": "4cbb0e600d1d",
+      "name": "Gà luộc xé phay trộn gỏi hành tây rau thơm",
+      "category": "Món Gà",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 37
+      }
+    },
+    {
+      "id": "e596d5462e9d",
+      "name": "Gà hầm nấm đông cô",
+      "category": "Món Gà",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 38
+      }
+    },
+    {
+      "id": "cb8482fc3b7e",
+      "name": "Gà hầm ngải cứu",
+      "category": "Món Gà",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 39
+      }
+    },
+    {
+      "id": "3b160711c1b8",
+      "name": "Gà xé trộn bắp cải",
+      "category": "Món Gà",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 40
+      }
+    },
+    {
+      "id": "ee61898e87c4",
+      "name": "Gà xé trộn dưa leo",
+      "category": "Món Gà",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 41
+      }
+    },
+    {
+      "id": "a28d1c5bfc4e",
+      "name": "Gà xé trộn rau răm",
+      "category": "Món Gà",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 42
+      }
+    },
+    {
+      "id": "b0016dbcb53d",
+      "name": "Gà kho nghệ",
+      "category": "Món Gà",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 43
+      }
+    },
+    {
+      "id": "927eededca8c",
+      "name": "Gà xào sả ớt",
+      "category": "Món Gà",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 44
+      }
+    },
+    {
+      "id": "17b78050ba99",
+      "name": "Gà nướng mật ong",
+      "category": "Món Gà",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 45
+      }
+    },
+    {
+      "id": "b40ca78ff2eb",
+      "name": "Cà ri gà",
+      "category": "Món Gà",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 46
+      }
+    },
+    {
+      "id": "6a2aa1e240c3",
+      "name": "Gỏi gà bắp chuối",
+      "category": "Món Gà",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Bò & Gia Cầm",
+        "row": 47
+      }
+    },
+    {
+      "id": "75d165b85a90",
+      "name": "Cá bạc má kho cà",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 2
+      }
+    },
+    {
+      "id": "1201ec57b5a5",
+      "name": "Tôm biển hấp",
+      "category": "Tôm & Hải Sản",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 2
+      }
+    },
+    {
+      "id": "1b0b00af2766",
+      "name": "Cá bạc má kho tiêu",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 3
+      }
+    },
+    {
+      "id": "54f8017fb09e",
+      "name": "Tôm hấp sả",
+      "category": "Tôm & Hải Sản",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 3
+      }
+    },
+    {
+      "id": "73beb9ff52e1",
+      "name": "Cá basa kho gừng",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 4
+      }
+    },
+    {
+      "id": "596cea3b0e40",
+      "name": "Nhộng tằm rang lá chanh",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 4
+      }
+    },
+    {
+      "id": "b8f0d88b635b",
+      "name": "Cá basa kho nghệ",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 5
+      }
+    },
+    {
+      "id": "64787a7783b9",
+      "name": "Sò xào măng mùi tàu",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 5
+      }
+    },
+    {
+      "id": "06371c59f243",
+      "name": "Cá basa kho tiêu",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 6
+      }
+    },
+    {
+      "id": "1d36e88bae7d",
+      "name": "Tôm đồng rang lá chanh",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 6
+      }
+    },
+    {
+      "id": "69584d6070dd",
+      "name": "Cá bống kho tiêu",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 7
+      }
+    },
+    {
+      "id": "11859327d9c3",
+      "name": "Tôm đồng rang thịt",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 7
+      }
+    },
+    {
+      "id": "6bbdb7ca114c",
+      "name": "Cá bống kho tiêu xanh",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 8
+      }
+    },
+    {
+      "id": "b76fb51f3a62",
+      "name": "Tôm xào súp lơ",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 8
+      }
+    },
+    {
+      "id": "f14520ea3122",
+      "name": "Cá cơm kho thịt ba chỉ",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 9
+      }
+    },
+    {
+      "id": "92b256c7130c",
+      "name": "Canh chua hàu",
+      "category": "Tôm & Hải Sản",
+      "method": "Canh",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 9
+      }
+    },
+    {
+      "id": "b6106331266a",
+      "name": "Cá cơm kho tiêu",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 10
+      }
+    },
+    {
+      "id": "cb681718798c",
+      "name": "Canh ngao nấu chua dứa",
+      "category": "Tôm & Hải Sản",
+      "method": "Canh",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 10
+      }
+    },
+    {
+      "id": "b43c9833b5cc",
+      "name": "Cá kho dưa chua",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 11
+      }
+    },
+    {
+      "id": "f66ba601a897",
+      "name": "Canh ngao nấu mùng tơi",
+      "category": "Tôm & Hải Sản",
+      "method": "Canh",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 11
+      }
+    },
+    {
+      "id": "037a9228fac6",
+      "name": "Cá kho khế chua",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 12
+      }
+    },
+    {
+      "id": "ecbb403b0002",
+      "name": "Canh ngao nấu rau cải",
+      "category": "Tôm & Hải Sản",
+      "method": "Canh",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 12
+      }
+    },
+    {
+      "id": "273c1c4d7686",
+      "name": "Cá kho măng",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 13
+      }
+    },
+    {
+      "id": "01bc062ab48b",
+      "name": "Nộm sứa xoài xanh",
+      "category": "Tôm & Hải Sản",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 13
+      }
+    },
+    {
+      "id": "7509f00b52a3",
+      "name": "Cá kho mít non",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 14
+      }
+    },
+    {
+      "id": "d242bffbfc5c",
+      "name": "Tôm rim mặn ngọt",
+      "category": "Tôm & Hải Sản",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 14
+      }
+    },
+    {
+      "id": "21bd926d5b6d",
+      "name": "Cá kho tộ",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 15
+      }
+    },
+    {
+      "id": "12e587235bb2",
+      "name": "Tôm rang me",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 15
+      }
+    },
+    {
+      "id": "ee5846286d6d",
+      "name": "Cá kho trám",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 16
+      }
+    },
+    {
+      "id": "ecd67fc6e18a",
+      "name": "Mực xào dứa",
+      "category": "Tôm & Hải Sản",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 16
+      }
+    },
+    {
+      "id": "5cb0c6b1c286",
+      "name": "Cá kho tương",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 17
+      }
+    },
+    {
+      "id": "08cc63dbcfba",
+      "name": "Mực hấp gừng",
+      "category": "Tôm & Hải Sản",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 17
+      }
+    },
+    {
+      "id": "92c054639395",
+      "name": "Cá lóc kho nghệ",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 18
+      }
+    },
+    {
+      "id": "a97813af6ddf",
+      "name": "Nghêu hấp sả",
+      "category": "Tôm & Hải Sản",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 18
+      }
+    },
+    {
+      "id": "32caac04124b",
+      "name": "Cá nục kho cà chua",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 19
+      }
+    },
+    {
+      "id": "2bbed30f209c",
+      "name": "Chem chép nướng mỡ hành",
+      "category": "Tôm & Hải Sản",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 19
+      }
+    },
+    {
+      "id": "d1e74f6c8b56",
+      "name": "Cá nục kho tiêu",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 20
+      }
+    },
+    {
+      "id": "172c6ffc8b26",
+      "name": "Cá rô phi kho nghệ",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 21
+      }
+    },
+    {
+      "id": "08c5acf895ab",
+      "name": "Cá rô phi kho tiêu",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 22
+      }
+    },
+    {
+      "id": "71537c744893",
+      "name": "Cá bạc má chiên",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 23
+      }
+    },
+    {
+      "id": "b08ab1f65e6e",
+      "name": "Cá bạc má chiên mắm tỏi",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 24
+      }
+    },
+    {
+      "id": "6b38a3b0be0b",
+      "name": "Cá basa chiên giòn",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 25
+      }
+    },
+    {
+      "id": "83fb8f6935d3",
+      "name": "Cá basa chiên sốt mắm",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 26
+      }
+    },
+    {
+      "id": "c00f2d822f5f",
+      "name": "Cá chiên xù thì là",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 27
+      }
+    },
+    {
+      "id": "12dda6116b4f",
+      "name": "Cá cơm chiên giòn",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 28
+      }
+    },
+    {
+      "id": "086173d34aab",
+      "name": "Cá nhỏ rán giòn",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 29
+      }
+    },
+    {
+      "id": "96b4203902b8",
+      "name": "Cá nục chiên giòn",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 30
+      }
+    },
+    {
+      "id": "97c1f56a3ccc",
+      "name": "Cá nục chiên nước mắm",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 31
+      }
+    },
+    {
+      "id": "299808d34f5b",
+      "name": "Cá rán mắm tỏi ớt tiêu",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 32
+      }
+    },
+    {
+      "id": "8e5338bb2fd2",
+      "name": "Cá rô phi chiên",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 33
+      }
+    },
+    {
+      "id": "cc50ec77c22d",
+      "name": "Cá rô phi chiên mắm",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 34
+      }
+    },
+    {
+      "id": "05ee19019e50",
+      "name": "Cá trứng chiên giòn",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 35
+      }
+    },
+    {
+      "id": "253781306c81",
+      "name": "Cá basa hấp gừng",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 36
+      }
+    },
+    {
+      "id": "bc1ee730f5f0",
+      "name": "Cá hấp bia",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 37
+      }
+    },
+    {
+      "id": "359e3c09c330",
+      "name": "Cá hấp hành thì là",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 38
+      }
+    },
+    {
+      "id": "baff642d3fd2",
+      "name": "Cá hấp mắm gừng",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 39
+      }
+    },
+    {
+      "id": "6c5e5f7894f8",
+      "name": "Cá hấp xì dầu gừng thì là",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 40
+      }
+    },
+    {
+      "id": "a4062e6b964c",
+      "name": "Cá lóc hấp hành",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 41
+      }
+    },
+    {
+      "id": "33793c622acf",
+      "name": "Cá rô phi hấp hành gừng",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 42
+      }
+    },
+    {
+      "id": "c76dfa51737b",
+      "name": "Cá chép om dưa",
+      "category": "Món Cá",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 43
+      }
+    },
+    {
+      "id": "67e269ccd440",
+      "name": "Cá nướng",
+      "category": "Món Cá",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 44
+      }
+    },
+    {
+      "id": "c08a0dadf8f6",
+      "name": "Cá sốt cà chua",
+      "category": "Món Cá",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 45
+      }
+    },
+    {
+      "id": "469ca59e1278",
+      "name": "Chả cá",
+      "category": "Món Cá",
+      "method": "Khác",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 46
+      }
+    },
+    {
+      "id": "c07fd5a6db9a",
+      "name": "Cá bống kho gừng",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 47
+      }
+    },
+    {
+      "id": "a2233f705090",
+      "name": "Cá bống kho riềng",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 48
+      }
+    },
+    {
+      "id": "56ff2c4b94d8",
+      "name": "Cá mòi kho dưa chua",
+      "category": "Món Cá",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 49
+      }
+    },
+    {
+      "id": "b76e60eb93a0",
+      "name": "Cá thu sốt cà chua",
+      "category": "Món Cá",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 50
+      }
+    },
+    {
+      "id": "154d4ae890f3",
+      "name": "Cá cam chiên giòn",
+      "category": "Món Cá",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 51
+      }
+    },
+    {
+      "id": "349120536525",
+      "name": "Cá diêu hồng hấp xì dầu",
+      "category": "Món Cá",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Cá & Thủy Hải Sản",
+        "row": 52
+      }
+    },
+    {
+      "id": "5f9b6c77694a",
+      "name": "Trứng chiên bắp cải",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 2
+      }
+    },
+    {
+      "id": "cf8e3c443964",
+      "name": "Đậu phụ chiên giòn sốt mắm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 2
+      }
+    },
+    {
+      "id": "9c486445608e",
+      "name": "Trứng chiên cà chua",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 3
+      }
+    },
+    {
+      "id": "11c0cefcf587",
+      "name": "Đậu phụ chiên nước mắm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 3
+      }
+    },
+    {
+      "id": "76a46e836dd4",
+      "name": "Trứng chiên giá",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 4
+      }
+    },
+    {
+      "id": "36ebc64251ff",
+      "name": "Đậu phụ chiên sả",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 4
+      }
+    },
+    {
+      "id": "2691df2df60b",
+      "name": "Trứng chiên hành tây",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 5
+      }
+    },
+    {
+      "id": "13c70b6c5cda",
+      "name": "Đậu rán chấm mắm tỏi",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 5
+      }
+    },
+    {
+      "id": "f19d0ce869dc",
+      "name": "Trứng chiên nước mắm",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 6
+      }
+    },
+    {
+      "id": "7dc02f17ec56",
+      "name": "Đậu rán chấm mắm tôm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 6
+      }
+    },
+    {
+      "id": "73ac03a39244",
+      "name": "Trứng chiên đậu phụ",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 7
+      }
+    },
+    {
+      "id": "dfbd6198a163",
+      "name": "Nấm hải sản chiên giòn chấm sốt mayonnaise",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 7
+      }
+    },
+    {
+      "id": "903891c0b4f8",
+      "name": "Trứng rán hành",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 8
+      }
+    },
+    {
+      "id": "137b7451d118",
+      "name": "Đậu nhồi thịt sốt cà",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 8
+      }
+    },
+    {
+      "id": "19a99e3087ea",
+      "name": "Trứng rán hàu",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 9
+      }
+    },
+    {
+      "id": "4d07d98da7f6",
+      "name": "Đậu phụ sốt mắm hành",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 9
+      }
+    },
+    {
+      "id": "595a2f556d78",
+      "name": "Trứng rán hẹ",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 10
+      }
+    },
+    {
+      "id": "9f29abfb4a9e",
+      "name": "Đậu phụ sốt tiêu",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 10
+      }
+    },
+    {
+      "id": "f4e521344a6e",
+      "name": "Trứng rán lá mơ",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 11
+      }
+    },
+    {
+      "id": "3a8fd6d2b930",
+      "name": "Đậu phụ sốt tương",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 11
+      }
+    },
+    {
+      "id": "e732d5edc2be",
+      "name": "Trứng rán ngải cứu",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 12
+      }
+    },
+    {
+      "id": "9f528be6581d",
+      "name": "Đậu phụ xào giá",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 12
+      }
+    },
+    {
+      "id": "c63e5e1059fa",
+      "name": "Trứng rán thịt băm",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 13
+      }
+    },
+    {
+      "id": "de32f20bf77e",
+      "name": "Đậu phụ xào nấm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 13
+      }
+    },
+    {
+      "id": "287b9936b74a",
+      "name": "Trứng cút sốt cà chua",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 14
+      }
+    },
+    {
+      "id": "106a5e897541",
+      "name": "Đậu phụ xào rau củ",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 14
+      }
+    },
+    {
+      "id": "cf0ffd5bd7da",
+      "name": "Trứng sốt cà chua",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 15
+      }
+    },
+    {
+      "id": "f6922881c1c7",
+      "name": "Đậu sốt cà chua",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 15
+      }
+    },
+    {
+      "id": "ac3df300ef5e",
+      "name": "Trứng sốt nước mắm",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 16
+      }
+    },
+    {
+      "id": "22bca99808e3",
+      "name": "Nấm sốt tỏi ớt",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 16
+      }
+    },
+    {
+      "id": "9d4b143535fd",
+      "name": "Trứng xào bầu",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 17
+      }
+    },
+    {
+      "id": "f073200b1c19",
+      "name": "Nấm đùi gà xào tỏi",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 17
+      }
+    },
+    {
+      "id": "eafd5017cf44",
+      "name": "Trứng xào cà chua",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 18
+      }
+    },
+    {
+      "id": "05f588f90810",
+      "name": "Đậu phụ kho cà chua",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 18
+      }
+    },
+    {
+      "id": "e7942015b728",
+      "name": "Trứng xào giá hẹ",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 19
+      }
+    },
+    {
+      "id": "3cf260db468e",
+      "name": "Đậu phụ kho nấm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 19
+      }
+    },
+    {
+      "id": "681c4ba5be18",
+      "name": "Trứng xào khổ qua",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 20
+      }
+    },
+    {
+      "id": "7876c2aeb6b9",
+      "name": "Đậu phụ kho tiêu",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 20
+      }
+    },
+    {
+      "id": "d7e109209d85",
+      "name": "Trứng xào mướp",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 21
+      }
+    },
+    {
+      "id": "5ae7c940fbaa",
+      "name": "Đậu phụ hấp hành",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 21
+      }
+    },
+    {
+      "id": "2d321e0131c1",
+      "name": "Trứng đúc thịt",
+      "category": "Món Trứng",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 22
+      }
+    },
+    {
+      "id": "b067495c8f57",
+      "name": "Đậu phụ hấp nấm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 22
+      }
+    },
+    {
+      "id": "3477bb82ef55",
+      "name": "Trứng cút kho nước dừa",
+      "category": "Món Trứng",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 23
+      }
+    },
+    {
+      "id": "396b41e8d616",
+      "name": "Đậu phụ om hành",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 23
+      }
+    },
+    {
+      "id": "56f64bf8ead3",
+      "name": "Trứng cút rim mắm",
+      "category": "Món Trứng",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 24
+      }
+    },
+    {
+      "id": "5f57c0fee06b",
+      "name": "Đậu phụ om nấm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 24
+      }
+    },
+    {
+      "id": "e97a48bde7c2",
+      "name": "Trứng cút rim tiêu",
+      "category": "Món Trứng",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 25
+      }
+    },
+    {
+      "id": "a412d69f7433",
+      "name": "Canh trứng nấm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Canh",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 25
+      }
+    },
+    {
+      "id": "11d8bb7aaffd",
+      "name": "Trứng rim nước tương",
+      "category": "Món Trứng",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 26
+      }
+    },
+    {
+      "id": "1c705ca11717",
+      "name": "Đậu phụ chấm mắm gừng",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Khác",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 26
+      }
+    },
+    {
+      "id": "7d5f19f6c632",
+      "name": "Trứng hấp cà chua",
+      "category": "Món Trứng",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 27
+      }
+    },
+    {
+      "id": "40976683b1ec",
+      "name": "Đậu phụ nhúng mẻ",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Khác",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 27
+      }
+    },
+    {
+      "id": "72d2529425f3",
+      "name": "Trứng hấp nấm",
+      "category": "Món Trứng",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 28
+      }
+    },
+    {
+      "id": "087daaaf2b72",
+      "name": "Đậu tẩm hành",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Khác",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 28
+      }
+    },
+    {
+      "id": "25ad58af8c67",
+      "name": "Trứng hấp thịt băm",
+      "category": "Món Trứng",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 29
+      }
+    },
+    {
+      "id": "19cc2c753cd5",
+      "name": "Đậu phụ rim nước tương",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 29
+      }
+    },
+    {
+      "id": "c63e9678b297",
+      "name": "Trứng luộc",
+      "category": "Món Trứng",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 30
+      }
+    },
+    {
+      "id": "c87158e4582a",
+      "name": "Đậu phụ kho sả ớt",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 30
+      }
+    },
+    {
+      "id": "a274e6a58995",
+      "name": "Trứng ngâm tương",
+      "category": "Món Trứng",
+      "method": "Khác",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 31
+      }
+    },
+    {
+      "id": "69f213f02b53",
+      "name": "Nấm rơm kho tiêu",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 31
+      }
+    },
+    {
+      "id": "8aad718bf18e",
+      "name": "Trứng vịt lộn hầm ngải cứu",
+      "category": "Món Trứng",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 32
+      }
+    },
+    {
+      "id": "99204b007a3a",
+      "name": "Nấm bào ngư xào sả ớt",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 32
+      }
+    },
+    {
+      "id": "e9a9517ca75f",
+      "name": "Trứng cuộn rau củ",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 33
+      }
+    },
+    {
+      "id": "134324efd75b",
+      "name": "Đậu hũ non sốt nấm",
+      "category": "Đậu Phụ & Nấm",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 33
+      }
+    },
+    {
+      "id": "b4a58d80c30c",
+      "name": "Trứng hấp hành",
+      "category": "Món Trứng",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 34
+      }
+    },
+    {
+      "id": "d7448487d63c",
+      "name": "Trứng cút chiên nước mắm",
+      "category": "Món Trứng",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Trứng, Đậu Phụ & Nấm",
+        "row": 35
+      }
+    },
+    {
+      "id": "c66854cd07fe",
+      "name": "Bắp cải luộc chấm trứng mắm",
+      "category": "Món Rau",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 2
+      }
+    },
+    {
+      "id": "dba167b5a5ec",
+      "name": "Bí xanh xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 3
+      }
+    },
+    {
+      "id": "515419e2695a",
+      "name": "Bông cải xanh xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 4
+      }
+    },
+    {
+      "id": "6eeb9f4f7a31",
+      "name": "Bắp cải xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 5
+      }
+    },
+    {
+      "id": "b1b81b027bf4",
+      "name": "Cải ngọt xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 6
+      }
+    },
+    {
+      "id": "1ee371bd9c8e",
+      "name": "Cải thìa xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 7
+      }
+    },
+    {
+      "id": "b606f166838a",
+      "name": "Cải xanh xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 8
+      }
+    },
+    {
+      "id": "500cb7673274",
+      "name": "Cần nước xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 9
+      }
+    },
+    {
+      "id": "b0fb80257db3",
+      "name": "Giá xào hẹ",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 10
+      }
+    },
+    {
+      "id": "9097096b4d97",
+      "name": "Mướp xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 11
+      }
+    },
+    {
+      "id": "114c65ae3456",
+      "name": "Rau bầu xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 12
+      }
+    },
+    {
+      "id": "87682291f5ce",
+      "name": "Rau dền xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 13
+      }
+    },
+    {
+      "id": "44e1c9a1f81b",
+      "name": "Rau lang xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 14
+      }
+    },
+    {
+      "id": "a4e6a7802d4a",
+      "name": "Rau nhút xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 15
+      }
+    },
+    {
+      "id": "a559d1b9350c",
+      "name": "Su su xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 16
+      }
+    },
+    {
+      "id": "d0bf82d68fb3",
+      "name": "Đậu bắp xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 17
+      }
+    },
+    {
+      "id": "4428421abd86",
+      "name": "Đậu cô ve xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 18
+      }
+    },
+    {
+      "id": "b620cef605ea",
+      "name": "Đậu que xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 19
+      }
+    },
+    {
+      "id": "b4aaeda8e5ab",
+      "name": "Bí xanh xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 20
+      }
+    },
+    {
+      "id": "45ecfe3ab1cc",
+      "name": "Bắp cải xào thịt",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 21
+      }
+    },
+    {
+      "id": "20b3baee1beb",
+      "name": "Bắp cải xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 22
+      }
+    },
+    {
+      "id": "454f441fc13f",
+      "name": "Cà tím xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 23
+      }
+    },
+    {
+      "id": "1682d4dbe3db",
+      "name": "Dưa leo xào thịt",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 24
+      }
+    },
+    {
+      "id": "38a51f83b716",
+      "name": "Giá xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 25
+      }
+    },
+    {
+      "id": "44358b453718",
+      "name": "Mướp xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 26
+      }
+    },
+    {
+      "id": "f6a5d67b619b",
+      "name": "Mướp đắng xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 27
+      }
+    },
+    {
+      "id": "d9403b3b9f74",
+      "name": "Su su xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 28
+      }
+    },
+    {
+      "id": "cdaf67804ac4",
+      "name": "Đậu bắp xào thịt",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 29
+      }
+    },
+    {
+      "id": "e90c873634fb",
+      "name": "Đậu cô ve xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 30
+      }
+    },
+    {
+      "id": "8ab9c0c18e9b",
+      "name": "Đậu que xào thịt băm",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 31
+      }
+    },
+    {
+      "id": "88fe904ec944",
+      "name": "Bầu xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 32
+      }
+    },
+    {
+      "id": "566d3ca8c83e",
+      "name": "Bắp cải xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 33
+      }
+    },
+    {
+      "id": "07d93573b0c3",
+      "name": "Cà chua xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 34
+      }
+    },
+    {
+      "id": "8aee94283bf1",
+      "name": "Dưa leo xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 35
+      }
+    },
+    {
+      "id": "90146dc92633",
+      "name": "Giá xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 36
+      }
+    },
+    {
+      "id": "fe733bec96e2",
+      "name": "Khổ qua xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 37
+      }
+    },
+    {
+      "id": "493f83056dd1",
+      "name": "Mướp xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 38
+      }
+    },
+    {
+      "id": "944e984e1f49",
+      "name": "Mướp đắng chiên trứng",
+      "category": "Món Rau",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 39
+      }
+    },
+    {
+      "id": "0ecabca875b1",
+      "name": "Rau muống xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 40
+      }
+    },
+    {
+      "id": "9e1ce8891b84",
+      "name": "Su su xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 41
+      }
+    },
+    {
+      "id": "7a478e8fa58a",
+      "name": "Đậu bắp xào trứng",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 42
+      }
+    },
+    {
+      "id": "902f45dac520",
+      "name": "Cà chua nhồi thịt",
+      "category": "Món Rau",
+      "method": "Rau / món ăn kèm",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 43
+      }
+    },
+    {
+      "id": "0758a2cbd6be",
+      "name": "Cà tím chiên mắm hành",
+      "category": "Món Rau",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 44
+      }
+    },
+    {
+      "id": "ddcbf14bf181",
+      "name": "Cà tím nhồi thịt",
+      "category": "Món Rau",
+      "method": "Rau / món ăn kèm",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 45
+      }
+    },
+    {
+      "id": "72e4e51887d7",
+      "name": "Cà tím nướng mỡ hành",
+      "category": "Món Rau",
+      "method": "Nướng",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 46
+      }
+    },
+    {
+      "id": "5ac2e0766121",
+      "name": "Cà tím om thịt",
+      "category": "Món Rau",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 47
+      }
+    },
+    {
+      "id": "5460a4721fe6",
+      "name": "Cà tím om tương",
+      "category": "Món Rau",
+      "method": "Hầm / Om / Nấu",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 48
+      }
+    },
+    {
+      "id": "851c559fadc9",
+      "name": "Bắp cải xào cà chua",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 49
+      }
+    },
+    {
+      "id": "388181cb8e85",
+      "name": "Rau muống luộc",
+      "category": "Món Rau",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 50
+      }
+    },
+    {
+      "id": "fd187d772ba8",
+      "name": "Đậu bắp luộc",
+      "category": "Món Rau",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 51
+      }
+    },
+    {
+      "id": "76bd3ab4f689",
+      "name": "Rau muống xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 52
+      }
+    },
+    {
+      "id": "27cf09d0dfe5",
+      "name": "Bí đỏ xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 53
+      }
+    },
+    {
+      "id": "fcef65017d0b",
+      "name": "Su hào xào cà rốt",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 54
+      }
+    },
+    {
+      "id": "58173d526a3d",
+      "name": "Măng tây xào tỏi",
+      "category": "Món Rau",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 55
+      }
+    },
+    {
+      "id": "f8cbd5446cfd",
+      "name": "Dưa leo cà chua trộn",
+      "category": "Món Rau",
+      "method": "Rau / món ăn kèm",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 56
+      }
+    },
+    {
+      "id": "ba76e908ca74",
+      "name": "Nộm đu đủ",
+      "category": "Món Rau",
+      "method": "Rau / món ăn kèm",
+      "source": {
+        "sheet": "Món Rau",
+        "row": 57
+      }
+    },
+    {
+      "id": "f0db8a285aed",
+      "name": "Canh bí nấu sườn",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 2
+      }
+    },
+    {
+      "id": "eeea30a835dc",
+      "name": "Canh bí đỏ nấu xương",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 3
+      }
+    },
+    {
+      "id": "db4439a185d5",
+      "name": "Canh khoai sọ nấu xương",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 4
+      }
+    },
+    {
+      "id": "59297e5f843d",
+      "name": "Canh rau ngót nấu sườn",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 5
+      }
+    },
+    {
+      "id": "863fb23cb0ee",
+      "name": "Canh sườn chua",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 6
+      }
+    },
+    {
+      "id": "8806384dd2f6",
+      "name": "Canh sườn ngũ quả",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 7
+      }
+    },
+    {
+      "id": "758976025039",
+      "name": "Canh bắp cải thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 8
+      }
+    },
+    {
+      "id": "8a28e4b8d5e4",
+      "name": "Canh bầu thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 9
+      }
+    },
+    {
+      "id": "c0bf31b2c967",
+      "name": "Canh bí xanh thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 10
+      }
+    },
+    {
+      "id": "2a285fb412fb",
+      "name": "Canh cà chua thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 11
+      }
+    },
+    {
+      "id": "9fd5a9a415bf",
+      "name": "Canh cải thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 12
+      }
+    },
+    {
+      "id": "7d949e95c46d",
+      "name": "Canh chua thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 13
+      }
+    },
+    {
+      "id": "afa7a1bba7fb",
+      "name": "Canh khoai mỡ thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 14
+      }
+    },
+    {
+      "id": "469e4bb7fc5f",
+      "name": "Canh kim chi thịt băm đậu hũ",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 15
+      }
+    },
+    {
+      "id": "bc1a93e7ff0a",
+      "name": "Canh mọc rau củ nấm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 16
+      }
+    },
+    {
+      "id": "a95f3ec8b662",
+      "name": "Canh mướp thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 17
+      }
+    },
+    {
+      "id": "d2591e03f58d",
+      "name": "Canh mướp đắng nhồi thịt",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 18
+      }
+    },
+    {
+      "id": "6070b6e5dbd0",
+      "name": "Canh rau cải thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 19
+      }
+    },
+    {
+      "id": "e4cad1470126",
+      "name": "Canh rau dền thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 20
+      }
+    },
+    {
+      "id": "955971739753",
+      "name": "Canh rau ngót thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 21
+      }
+    },
+    {
+      "id": "8665069f730d",
+      "name": "Canh cá nấu dưa chua",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 22
+      }
+    },
+    {
+      "id": "ea7806d7835b",
+      "name": "Canh cá nấu khế",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 23
+      }
+    },
+    {
+      "id": "745c068bd4eb",
+      "name": "Canh cá nấu măng",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 24
+      }
+    },
+    {
+      "id": "c15c3d199930",
+      "name": "Canh cá nấu sấu",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 25
+      }
+    },
+    {
+      "id": "1fc0733d29a0",
+      "name": "Canh chua cá",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 26
+      }
+    },
+    {
+      "id": "2074c31753df",
+      "name": "Canh cà bung",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 27
+      }
+    },
+    {
+      "id": "81b09f8794f2",
+      "name": "Canh cua mồng tơi rau đay mướp",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 28
+      }
+    },
+    {
+      "id": "cabaf77f2f1e",
+      "name": "Canh riêu cua",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 29
+      }
+    },
+    {
+      "id": "563a75a840fe",
+      "name": "Canh bắp cải",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 30
+      }
+    },
+    {
+      "id": "490ff4a8b215",
+      "name": "Canh bầu",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 31
+      }
+    },
+    {
+      "id": "42e18ab454c4",
+      "name": "Canh bí đao",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 32
+      }
+    },
+    {
+      "id": "d8163e94b226",
+      "name": "Canh bí đỏ",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 33
+      }
+    },
+    {
+      "id": "1cae0716fc75",
+      "name": "Canh bí đỏ trứng",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 34
+      }
+    },
+    {
+      "id": "92c0eff05b1c",
+      "name": "Canh cà chua trứng",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 35
+      }
+    },
+    {
+      "id": "c5c4022c611a",
+      "name": "Canh cải ngọt",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 36
+      }
+    },
+    {
+      "id": "11798df531af",
+      "name": "Canh cải xanh",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 37
+      }
+    },
+    {
+      "id": "90e55ba86a14",
+      "name": "Canh khoai mỡ",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 38
+      }
+    },
+    {
+      "id": "28814c5b6777",
+      "name": "Canh mồng tơi",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 39
+      }
+    },
+    {
+      "id": "1314a6607352",
+      "name": "Canh mướp",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 40
+      }
+    },
+    {
+      "id": "d65be5e3cbfe",
+      "name": "Canh nấm trứng",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 41
+      }
+    },
+    {
+      "id": "593355922eec",
+      "name": "Canh rau dền",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 42
+      }
+    },
+    {
+      "id": "8e594db85cbb",
+      "name": "Canh rau ngót",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 43
+      }
+    },
+    {
+      "id": "271d9d34a29c",
+      "name": "Canh rong biển trứng",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 44
+      }
+    },
+    {
+      "id": "72411d6d4eaa",
+      "name": "Canh rong biển đậu phụ",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 45
+      }
+    },
+    {
+      "id": "2f71912e29e4",
+      "name": "Canh đậu phụ trứng",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 46
+      }
+    },
+    {
+      "id": "4f0fa1207b89",
+      "name": "Nước luộc thịt nấu canh nấm sò",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 47
+      }
+    },
+    {
+      "id": "573379d1d00b",
+      "name": "Nước luộc thịt nấu canh rau dền",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 48
+      }
+    },
+    {
+      "id": "d77b392438ae",
+      "name": "Nước luộc thịt nấu canh rong biển",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 49
+      }
+    },
+    {
+      "id": "b73a06e12b7c",
+      "name": "Canh sườn khoai tây cà rốt",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 50
+      }
+    },
+    {
+      "id": "303d45f8cfe9",
+      "name": "Canh măng nấu sườn",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 51
+      }
+    },
+    {
+      "id": "440230b6f109",
+      "name": "Canh hẹ đậu hũ cà chua",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 52
+      }
+    },
+    {
+      "id": "9f020d791e01",
+      "name": "Canh nấm đậu hũ non hẹ thịt băm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 53
+      }
+    },
+    {
+      "id": "e335d9239b0e",
+      "name": "Canh bí đỏ nấu tôm khô",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 54
+      }
+    },
+    {
+      "id": "3736ab448c0c",
+      "name": "Canh mướp nấu tôm",
+      "category": "Món Canh",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Canh",
+        "row": 55
+      }
+    },
+    {
+      "id": "3d432e4ee824",
+      "name": "Cháo cá",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cháo",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 2
+      }
+    },
+    {
+      "id": "cb44e82e471c",
+      "name": "Cháo gà",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cháo",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 3
+      }
+    },
+    {
+      "id": "8ec405386ecd",
+      "name": "Cháo thịt băm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cháo",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 4
+      }
+    },
+    {
+      "id": "fa8213309f6d",
+      "name": "Cháo trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cháo",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 5
+      }
+    },
+    {
+      "id": "5266f855c601",
+      "name": "Cháo đậu xanh thịt băm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cháo",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 6
+      }
+    },
+    {
+      "id": "a2de2a90e710",
+      "name": "Phở cuốn thập cẩm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Phở",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 7
+      }
+    },
+    {
+      "id": "44b8de3d2fbc",
+      "name": "Phở gà",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Phở",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 8
+      }
+    },
+    {
+      "id": "f7b2e92ec15f",
+      "name": "Phở trộn",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Phở",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 9
+      }
+    },
+    {
+      "id": "99656f5159eb",
+      "name": "Bún chả",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 10
+      }
+    },
+    {
+      "id": "f8c3a1c3e2d3",
+      "name": "Bún cá rô đồng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 11
+      }
+    },
+    {
+      "id": "af03c4c66f63",
+      "name": "Bún măng vịt",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 12
+      }
+    },
+    {
+      "id": "9c5de538652c",
+      "name": "Bún riêu cua",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 13
+      }
+    },
+    {
+      "id": "e1e709e269f1",
+      "name": "Bún vịt om sấu",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 14
+      }
+    },
+    {
+      "id": "acf47825ae9e",
+      "name": "Bún đậu mắm tôm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 15
+      }
+    },
+    {
+      "id": "4ed3d5c0f7f8",
+      "name": "Canh bún rau củ",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 16
+      }
+    },
+    {
+      "id": "711cf44b96a7",
+      "name": "Miến gà / thịt",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 17
+      }
+    },
+    {
+      "id": "e61fb4407b8f",
+      "name": "Miến trộn Hàn Quốc (Japchae)",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 18
+      }
+    },
+    {
+      "id": "2d9295660e93",
+      "name": "Miến xào rau",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 19
+      }
+    },
+    {
+      "id": "7c9971cef500",
+      "name": "Miến xào trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 20
+      }
+    },
+    {
+      "id": "dc3a5bd88f45",
+      "name": "Mì tôm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 21
+      }
+    },
+    {
+      "id": "7118c2cb02d9",
+      "name": "Mì tương đen",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 22
+      }
+    },
+    {
+      "id": "a409a3b8a69e",
+      "name": "Mì xào rau cải",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 23
+      }
+    },
+    {
+      "id": "bc59ed19c495",
+      "name": "Mì xào thịt băm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 24
+      }
+    },
+    {
+      "id": "94142531c7e3",
+      "name": "Mì xào trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 25
+      }
+    },
+    {
+      "id": "9f1e09935955",
+      "name": "Mì xào trứng xúc xích",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 26
+      }
+    },
+    {
+      "id": "516a9e401209",
+      "name": "Mì Ý",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 27
+      }
+    },
+    {
+      "id": "52b900b80990",
+      "name": "Nui xào thịt băm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 28
+      }
+    },
+    {
+      "id": "552475ea1cdd",
+      "name": "Nui xào trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 29
+      }
+    },
+    {
+      "id": "bc240bbcd3e0",
+      "name": "Pad Thái",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Mì / Miến / Nui",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 30
+      }
+    },
+    {
+      "id": "ee7e436ff119",
+      "name": "Cơm gà Hội An",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 31
+      }
+    },
+    {
+      "id": "cecfa1fa66ca",
+      "name": "Cơm nắm rong biển trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 32
+      }
+    },
+    {
+      "id": "aa4a59313333",
+      "name": "Cơm rang cá mặn",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 33
+      }
+    },
+    {
+      "id": "15adfd3bbf6c",
+      "name": "Cơm rang dưa bò",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 34
+      }
+    },
+    {
+      "id": "d596b1839685",
+      "name": "Cơm rang dưa cải",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 35
+      }
+    },
+    {
+      "id": "885c518cc30d",
+      "name": "Cơm rang kim chi trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 36
+      }
+    },
+    {
+      "id": "04254504aa91",
+      "name": "Cơm rang thịt băm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 37
+      }
+    },
+    {
+      "id": "72d37a1e6c45",
+      "name": "Cơm rang trứng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 38
+      }
+    },
+    {
+      "id": "aa8ebf3490a9",
+      "name": "Cơm rang tỏi",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 39
+      }
+    },
+    {
+      "id": "a0f50b455b34",
+      "name": "Cơm trộn thịt băm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 40
+      }
+    },
+    {
+      "id": "6d5955ecf125",
+      "name": "Cơm trộn trứng + rau",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 41
+      }
+    },
+    {
+      "id": "8a3c676086a3",
+      "name": "Kimbap",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 42
+      }
+    },
+    {
+      "id": "a7e91dfe7837",
+      "name": "Lẩu Thái hải sản thập cẩm",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Lẩu",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 43
+      }
+    },
+    {
+      "id": "4d04bd1d645b",
+      "name": "Lẩu ếch măng cay",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Lẩu",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 44
+      }
+    },
+    {
+      "id": "95396e90d287",
+      "name": "Chân giò hầm Hàn Quốc",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Món đổi vị khác",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 45
+      }
+    },
+    {
+      "id": "9ca8734a4eac",
+      "name": "Gà xào bắp cải cay",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Món đổi vị khác",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 46
+      }
+    },
+    {
+      "id": "fb395d533a8c",
+      "name": "Nem lụi nướng cuốn bánh tráng rau sống xoài dứa",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Món đổi vị khác",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 47
+      }
+    },
+    {
+      "id": "00b25b405520",
+      "name": "Bánh mì ốp la",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Món đổi vị khác",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 48
+      }
+    },
+    {
+      "id": "38584bc6d794",
+      "name": "Bánh xèo",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Món đổi vị khác",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 49
+      }
+    },
+    {
+      "id": "b0a592c12591",
+      "name": "Bún thịt nướng",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 50
+      }
+    },
+    {
+      "id": "184112be4aea",
+      "name": "Bún bò Nam Bộ",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 51
+      }
+    },
+    {
+      "id": "39b914510638",
+      "name": "Bún thang",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Bún",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 52
+      }
+    },
+    {
+      "id": "275f3baf1dc9",
+      "name": "Gỏi cuốn tôm thịt",
+      "category": "Món Nước & Đổi Vị",
+      "method": "Cơm & Cuốn",
+      "source": {
+        "sheet": "Món Nước & Đổi Vị",
+        "row": 53
+      }
+    },
+    {
+      "id": "deed30939d46",
+      "name": "Đậu hũ kho sả ớt",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 2
+      }
+    },
+    {
+      "id": "de951268c645",
+      "name": "Nấm rơm kho tiêu",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 3
+      }
+    },
+    {
+      "id": "9d78096ce0c3",
+      "name": "Nấm đùi gà kho gừng",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 4
+      }
+    },
+    {
+      "id": "f6353be0da55",
+      "name": "Mít non kho nước dừa",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 5
+      }
+    },
+    {
+      "id": "e47a9303df5b",
+      "name": "Măng kho nấm",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 6
+      }
+    },
+    {
+      "id": "d094428f8380",
+      "name": "Rau củ kho chay",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 7
+      }
+    },
+    {
+      "id": "ded00b0c1369",
+      "name": "Đậu hũ rim nước tương",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 8
+      }
+    },
+    {
+      "id": "402a4b47cc9f",
+      "name": "Củ cải kho nấm",
+      "category": "Món Chay",
+      "method": "Kho / Rim",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 9
+      }
+    },
+    {
+      "id": "b3a4ff3cc1d9",
+      "name": "Nấm bào ngư xào sả ớt",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 10
+      }
+    },
+    {
+      "id": "25f0af599491",
+      "name": "Rau củ xào thập cẩm",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 11
+      }
+    },
+    {
+      "id": "10fc4e818a75",
+      "name": "Cải thìa xào nấm đông cô",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 12
+      }
+    },
+    {
+      "id": "dc07bef72c40",
+      "name": "Bông cải xào nấm",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 13
+      }
+    },
+    {
+      "id": "08a14fb32af3",
+      "name": "Đậu que xào nấm",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 14
+      }
+    },
+    {
+      "id": "16d01ac1f529",
+      "name": "Mì căn xào sả ớt",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 15
+      }
+    },
+    {
+      "id": "af80a16aedd5",
+      "name": "Nấm sốt tiêu xanh",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 16
+      }
+    },
+    {
+      "id": "6cf82fa44de5",
+      "name": "Đậu hũ sốt sa tế chay",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 17
+      }
+    },
+    {
+      "id": "9fd869bac03d",
+      "name": "Chả giò chay",
+      "category": "Món Chay",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 18
+      }
+    },
+    {
+      "id": "adcd192dbdac",
+      "name": "Nấm kim châm chiên giòn",
+      "category": "Món Chay",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 19
+      }
+    },
+    {
+      "id": "e47dee504371",
+      "name": "Đậu hũ chiên giòn sốt chua ngọt",
+      "category": "Món Chay",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 20
+      }
+    },
+    {
+      "id": "5ee971b084cd",
+      "name": "Bánh xèo chay",
+      "category": "Món Chay",
+      "method": "Chiên / Rán",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 21
+      }
+    },
+    {
+      "id": "716847caa95f",
+      "name": "Rau củ hấp chấm kho quẹt chay",
+      "category": "Món Chay",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 22
+      }
+    },
+    {
+      "id": "b98bbface672",
+      "name": "Nấm hấp sả",
+      "category": "Món Chay",
+      "method": "Luộc / Hấp",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 23
+      }
+    },
+    {
+      "id": "b794da44bb90",
+      "name": "Canh chua chay",
+      "category": "Món Chay",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 24
+      }
+    },
+    {
+      "id": "bdda2447818e",
+      "name": "Canh khổ qua hầm chay",
+      "category": "Món Chay",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 25
+      }
+    },
+    {
+      "id": "cfa63d91fff9",
+      "name": "Canh bí đỏ đậu phộng",
+      "category": "Món Chay",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 26
+      }
+    },
+    {
+      "id": "e2ef6b98e136",
+      "name": "Canh nấm rau củ",
+      "category": "Món Chay",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 27
+      }
+    },
+    {
+      "id": "93f5c90e164e",
+      "name": "Canh bầu nấu nấm",
+      "category": "Món Chay",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 28
+      }
+    },
+    {
+      "id": "657a43f63c2b",
+      "name": "Canh cải thảo nấm",
+      "category": "Món Chay",
+      "method": "Canh",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 29
+      }
+    },
+    {
+      "id": "d55732b87da0",
+      "name": "Gỏi ngó sen chay",
+      "category": "Món Chay",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 30
+      }
+    },
+    {
+      "id": "24685723b25a",
+      "name": "Gỏi bắp chuối chay",
+      "category": "Món Chay",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 31
+      }
+    },
+    {
+      "id": "6c4f42518287",
+      "name": "Gỏi cuốn chay",
+      "category": "Món Chay",
+      "method": "Trộn / Cuốn",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 32
+      }
+    },
+    {
+      "id": "9a9fc7673810",
+      "name": "Bún riêu chay",
+      "category": "Món Chay",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 33
+      }
+    },
+    {
+      "id": "dde53f8610f4",
+      "name": "Hủ tiếu chay",
+      "category": "Món Chay",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 34
+      }
+    },
+    {
+      "id": "fd5413c847eb",
+      "name": "Cháo nấm chay",
+      "category": "Món Chay",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 35
+      }
+    },
+    {
+      "id": "5aff587004a1",
+      "name": "Cơm chiên chay",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 36
+      }
+    },
+    {
+      "id": "f4c558d713d9",
+      "name": "Miến xào chay",
+      "category": "Món Chay",
+      "method": "Xào / Rang / Sốt",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 37
+      }
+    },
+    {
+      "id": "99e0241aaf5c",
+      "name": "Bánh mì xíu mại chay",
+      "category": "Món Chay",
+      "method": "Món Khác",
+      "source": {
+        "sheet": "Món Chay",
+        "row": 38
+      }
+    }
+  ]
+}
